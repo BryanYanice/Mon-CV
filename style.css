@@ -1,0 +1,26 @@
+h1
+{
+	font-size: 3em;
+	font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+	text-align: center;
+	border: 3px groove;
+	box-shadow: 6px 6px 30px blueviolet;
+	text-shadow: 10px 10px 30px blueviolet;
+}
+
+.salutation
+{
+	color: rgba(25, 10, 238, 0.658);
+}
+
+h2
+{
+	text-decoration: underline;
+	text-shadow: 5px 5px 30px blueviolet;
+}
+
+body
+{
+	background-color: ivory;
+	background-image: url(photo/thumb-1920-947483.jpg);
+}
