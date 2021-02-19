@@ -2,10 +2,16 @@ h1
 {
 	font-size: 3em;
 	font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
-	text-align: center;
+	text-align: justify;
 	border: 3px groove;
 	box-shadow: 6px 6px 30px blueviolet;
 	text-shadow: 10px 10px 30px blueviolet;
+	width: 500px;
+	margin: auto;
+	padding: 12px;
+	margin-bottom: 100px;
+
+	
 }
 
 .salutation
@@ -17,6 +23,26 @@ h2
 {
 	text-decoration: underline;
 	text-shadow: 5px 5px 30px blueviolet;
+	color: blue;
+	font-size: 30px;
+}
+ul
+{
+	color: rgb(214, 29, 214);
+	font-size: 20px;
+}
+p
+{
+	font-size: 20px;
+	color: rgb(214, 29, 214);
+}
+.testbordure
+{
+	width: 250px;
+	height: 210px;
+	text-align: justify;
+	border: 2px solid black;
+	overflow: auto;
 }
 
 body
